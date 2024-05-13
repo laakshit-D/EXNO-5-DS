@@ -1,12 +1,12 @@
 # EX:5 DATA VISUALIZATION USING MATPLOT LIBRARY
 
-# Aim:
+## Aim:
   To Perform Data Visualization using matplot python library.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
+## Algorithm:
 STEP 1:Include the necessary Library.
 
 STEP 2:Read the Data.
@@ -17,7 +17,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
+## Coding and Output:
 ### TO CAPTURE A TREND
 ```py
 import pandas as pd
@@ -209,6 +209,6 @@ plt.show()
 
 ![image](https://github.com/laakshit-D/EXNO-5-DS/assets/119559976/91544209-dd05-4afa-919a-fd5d962c66f3)
 
-# Result:
+## Result:
   The Data Visualization using matplot python library is implemented successfully.
 
